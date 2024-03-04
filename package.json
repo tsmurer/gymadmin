@@ -1,5 +1,5 @@
 {
-  "name": "advplat",
+  "name": "gymadmin",
   "version": "1.0.0",
   "description": "platform for legal services",
   "main": "index.js",
@@ -8,16 +8,12 @@
     "start": "node dist/index.js",
     "build": "tsc -p tsconfig.json "
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://tsmurer: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@github.com/tsmurer/advPlat.git"
-  },
   "author": "tsmurer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tsmurer/advPlat/issues"
+    "url": "https://github.com/tsmurer/gymadmin/issues"
   },
-  "homepage": "https://github.com/tsmurer/advPlat#readme",
+  "homepage": "https://github.com/tsmurer/gymadmin#readme",
   "devDependencies": {
     "@types/node": "^20.11.20",
     "@types/pg": "^8.11.2",
